@@ -1,1 +1,2 @@
-*This is a project on shell I/O*
+# prints “Hello, World”, followed by a new line to the standard output
+
